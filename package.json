@@ -1,8 +1,8 @@
 {
     "name": "fetch-behind",
-    "description": "Cool Package",
-    "author": "Nathan Friedly - http://nfriedly.com / This is a Mirror Package",
-    "version": "2.3.0",
+    "description": "Super Cool Package",
+    "author": "4lyfe-collectives",
+    "version": "2.3.1",
     "repository": "git://github.com/nfriedly/node-unblocker.git",
     "engines": {
       "node": ">=6"
